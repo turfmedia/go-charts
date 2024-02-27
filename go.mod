@@ -1,6 +1,6 @@
-module github.com/vicanso/go-charts/v2
+module github.com/turfmedia/go-charts/v2
 
-go 1.17
+go 1.20
 
 require (
 	github.com/dustin/go-humanize v1.0.1
